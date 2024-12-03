@@ -1,0 +1,287 @@
+{
+  "surah1": {
+    "SurahName": "Al-Fatihah",
+    "Translation": "The Opening",
+    "ChapterNumber": 1,
+    "RevelationPlace": "Mecca",
+    "TotalVerses": 7,
+    "Description": "The opening chapter of the Quran, recited in every unit of Salah, emphasizing faith, gratitude, and guidance.",
+    "KeyThemes": {
+      "PraiseAndGratitudeToAllah": [
+        "Begins by glorifying Allah: 'All praise is due to Allah, Lord of all the worlds.'",
+        "Emphasizes gratitude for Allah's mercy, sovereignty, and guidance."
+      ],
+      "AllahsMercyAndSovereignty": [
+        "Describes Allah as Ar-Rahman (The Most Compassionate) and Ar-Raheem (The Most Merciful).",
+        "Mentions Malik Yawm-id-Deen (Master of the Day of Judgment), highlighting authority and justice."
+      ],
+      "DevotionAndWorship": "Proclaims reliance on and worship of Allah alone: 'You alone we worship, and You alone we ask for help.'",
+      "GuidanceToStraightPath": "Includes the central supplication: 'Guide us to the Straight Path,' signifying the path of righteousness.",
+      "ContrastOfPaths": "Pleads to remain on the path of those blessed by Allah, avoiding paths of those who incurred anger or went astray."
+    },
+    "Significance": [
+      "Foundation of Prayer: Recited in every unit (rak’ah) of Salah, making it the most repeated part of the Quran.",
+      "Summary of the Quran: Encapsulates the essence of the Quran’s message—praise, mercy, and guidance.",
+      "Healing and Protection: Regarded as a source of spiritual healing and protection, referred to as 'Ash-Shifa' (The Cure)."
+    ]
+  },
+  "surah2": {
+    "SurahName": "Al-Baqarah",
+    "Translation": "The Cow",
+    "ChapterNumber": 2,
+    "RevelationPlace": "Medina",
+    "TotalVerses": 286,
+    "Description": "The longest surah of the Quran, comprising diverse topics of guidance, laws, and stories.",
+    "KeyThemes": {
+      "GuidanceForHumanity": [
+        "Begins with Alif-Lam-Meem, emphasizing the Quran as a guidance for the conscious of Allah (Muttaqeen).",
+        "Distinguishes between believers, disbelievers, and hypocrites, describing their characteristics."
+      ],
+      "StoryOfAdamAndIblis": "Details the creation of Adam, his honor, and Iblis's refusal to bow, leading to his downfall.",
+      "LawsAndEthics": [
+        "Covers dietary laws, prayer, fasting, charity (Zakat), pilgrimage (Hajj), and social justice.",
+        "Includes Ayat al-Kursi (2:255), describing Allah's majesty and sovereignty."
+      ],
+      "StoryOfBaniIsrael": [
+        "Recounts the history of the Israelites, their blessings from Allah, and repeated disobedience.",
+        "Highlights the story of the golden calf and the command to slaughter a cow."
+      ]
+    }
+  },
+  "surah3": {
+    "SurahName": "Al-Imran",
+    "Translation": "The Family of Imran",
+    "ChapterNumber": 3,
+    "RevelationPlace": "Medina",
+    "TotalVerses": 200,
+    "Description": "A Medinan Surah addressing themes of faith, unity, and steadfastness, along with the story of Imran’s family and lessons from historical events like the Battle of Uhud.",
+    "KeyThemes": {
+      "Tawhid": [
+        "Reinforces belief in Allah's oneness and His sovereignty.",
+        "Encourages reflection on the signs of Allah in the universe."
+      ],
+      "TheQuranAsGuidance": [
+        "Presents the Quran as a guide and confirmation of earlier scriptures.",
+        "Urges believers to adhere to its teachings."
+      ],
+      "TheFamilyOfImran": [
+        "Narrates the story of Maryam’s miraculous birth and Prophet Isa’s life.",
+        "Highlights the piety and dedication of Imran’s family."
+      ],
+      "DebateWithChristiansOfNajran": [
+        "Addresses misconceptions about Jesus and clarifies the Islamic view of monotheism."
+      ],
+      "LessonsFromTheBattleOfUhud": [
+        "Reflects on the lessons of unity and reliance on Allah during adversity.",
+        "Emphasizes obedience to the Prophet."
+      ],
+      "CharityAndDetachment": [
+        "Encourages spending wealth in Allah’s cause and detachment from worldly possessions."
+      ],
+      "ConceptOfLifeAndDeath": [
+        "Contrasts the transient nature of worldly life with the eternal Hereafter rewards.",
+        "Calls believers to prioritize the Hereafter."
+      ],
+      "SteadfastnessAndPatience": [
+        "Urges patience, perseverance, and trust in Allah during trials."
+      ],
+      "UnityAmongBelievers": [
+        "Highlights the importance of unity and avoiding division within the Ummah."
+      ],
+      "Duas": [
+        "Contains supplications such as: 'Our Lord, do not let our hearts deviate after You have guided us, and grant us mercy from Yourself.'"
+      ]
+    },
+    "KeyVerses": [
+      { "AyahNumber": "3:7", "Theme": "Clear and allegorical verses in the Quran." },
+      { "AyahNumber": "3:26-27", "Theme": "Allah’s control over sovereignty and provision." },
+      { "AyahNumber": "3:102-103", "Theme": "Holding fast to the rope of Allah and remaining united." },
+      { "AyahNumber": "3:190-191", "Theme": "Reflection on the creation of the heavens and the earth." }
+    ],
+    "Significance": [
+      "Provides spiritual guidance on faith, gratitude, and reliance on Allah.",
+      "Encourages patience, unity, and charity.",
+      "Clarifies misconceptions about Jesus and earlier scriptures.",
+      "Forms part of the two 'bright chapters' (Az-Zahrawayn) with Surah Al-Baqarah."
+    ]
+  },
+  "surah4": {
+    "SurahName": "An-Nisa",
+    "Translation": "The Women",
+    "ChapterNumber": 4,
+    "RevelationPlace": "Medina",
+    "TotalVerses": 176,
+    "Description": "A Medinan Surah that addresses a wide range of legal, social, and ethical issues, with a focus on family, inheritance, and the rights of women.",
+    "KeyThemes": {
+      "RightsAndDutiesOfWomen": [
+        "Emphasizes the dignity, protection, and fair treatment of women.",
+        "Addresses issues of marriage, inheritance, and the treatment of widows and orphans."
+      ],
+      "InheritanceLaws": [
+        "Detailed laws of inheritance (verses 7-14) ensuring fairness in the distribution of wealth.",
+        "Focuses on fulfilling the rights of others, particularly women and orphans."
+      ],
+      "JusticeAndFairness": [
+        "Calls for justice in social, economic, and political spheres.",
+        "Emphasizes the importance of protecting individual rights and maintaining social justice."
+      ],
+      "MarriageAndFamily": [
+        "Discusses laws of marriage, including polygyny under strict conditions.",
+        "Stresses mutual respect and kindness between spouses, and the rights of women in marriage."
+      ],
+      "TreatmentOfOrphans": [
+        "Emphasizes the importance of protecting orphans' rights and warns against their exploitation."
+      ],
+      "WarAndPeace": [
+        "Provides guidance on the conduct of war, focusing on the treatment of prisoners and non-combatants.",
+        "Encourages peaceful conflict resolution and fulfillment of promises."
+      ],
+      "HypocrisyAndBelief": [
+        "Warns against hypocrisy and stresses sincerity in belief and actions."
+      ],
+      "RoleOfMenAndWomen": [
+        "Acknowledges distinct roles but emphasizes equality in the sight of Allah regarding responsibilities and rewards."
+      ],
+      "GuidelinesForSocialConduct": [
+        "Offers ethical guidance on transactions, maintaining family ties, and fulfilling promises.",
+        "Encourages seeking forgiveness and mindfulness of Allah’s commands."
+      ]
+    },
+    "KeyVerses": [
+      { "AyahNumber": "4:1", "Theme": "Equality of men and women as part of humanity, created by Allah from one soul." },
+      { "AyahNumber": "4:3", "Theme": "Allows men to marry up to four wives, with the condition of fair treatment." },
+      { "AyahNumber": "4:7-14", "Theme": "Details the laws of inheritance, ensuring fair distribution, focusing on the rights of women and orphans." },
+      { "AyahNumber": "4:36", "Theme": "Emphasizes kindness to parents, relatives, orphans, and neighbors, encouraging good conduct." }
+    ],
+    "Significance": [
+      "Plays a key role in defining the rights of individuals, especially women and orphans, in society.",
+      "Stresses equality and fair treatment, recognizing the distinct roles and responsibilities of men and women.",
+      "Provides comprehensive guidelines on family life, justice, inheritance, and social conduct, forming a foundation for Islamic legal systems.",
+      "Remains relevant for addressing societal issues related to justice, rights, and equality."
+    ]
+  },
+  "surah5": {
+    "SurahName": "Al-Ma'idah",
+    "Translation": "The Table Spread",
+    "ChapterNumber": 5,
+    "RevelationPlace": "Medina",
+    "TotalVerses": 120,
+    "Description": "Surah Al-Ma'idah provides guidance on social conduct, justice, dietary laws, and ethical behavior. It addresses various aspects of law and theology, marking the completion of the Islamic message.",
+    "KeyThemes": {
+      "TheCovenantAndObedience": "Emphasizes the importance of keeping covenants and abiding by Allah's laws, calling Muslims to honor commitments made to Allah.",
+      "TheConceptOfJustice": "Highlights principles of justice in law, punishment, and social relations, urging Muslims to stand firm in justice and treat others fairly.",
+      "LawsOfFoodAndDietaryRestrictions": "Addresses lawful (halal) and unlawful (haram) foods, including the prohibition of pork and non-Islamically slaughtered animals, as well as permission for eating the food of the People of the Book (Jews and Christians).",
+      "TheStatusOfProphetsAndDisciples": "Recounts the story of Prophet Isa (Jesus) and his disciples, particularly the request for a table of food sent down as a sign, emphasizing Isa's role as a prophet and addressing misunderstandings about his nature.",
+      "LawsOfRevengeForgivenessAndPenance": "Elaborates on the concept of qisas (just retribution), balancing justice and mercy, and emphasizes forgiveness, reconciliation, and seeking atonement.",
+      "PunishmentForApostasyAndRebellion": "Prescribes punishments for apostasy and rebellion, outlining serious consequences for betraying faith or disrupting societal peace.",
+      "ThePrincipleOfLaikumDeenukumWaliyaDeen": "Includes the verse 'For you is your religion, and for me is my religion' (5:120), underlining religious tolerance and peaceful coexistence.",
+      "LawsRegardingOathsAndVows": "Stresses the importance of fulfilling oaths and vows made to Allah, and the obligation of keeping promises.",
+      "ACallToUpholdTheFaithAndAvoidHypocrisy": "Urges adherence to the faith, warns against hypocrisy, and calls Muslims to remain true to their beliefs in all aspects of life.",
+      "TheRoleOfTheShariah": "Reiterates the importance of following the laws in the Quran and Sunnah as the foundation of a just and righteous society."
+    },
+    "KeyVerses": {
+      "5:3": "This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion.",
+      "5:32": "Whoever kills a soul unless for a soul or for corruption done in the land - it is as if he had slain mankind entirely.",
+      "5:8": "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives...",
+      "5:120": "To Allah belongs the dominion of the heavens and the earth and whatever is within them. And He is over all things competent."
+    },
+    "Significance": [
+      "Social and Legal Framework: Provides guidance on social conduct, justice, dietary laws, and ethical behavior, contributing to the social and legal framework for Muslims.",
+      "Comprehensive Guidance: Addresses practical matters such as food, marriage, and social relations, while also dealing with deeper theological discussions about faith, prophethood, and religious tolerance.",
+      "AFinalMessage: Marks the completion of the religion and the finality of the message of Islam, reaffirming the full and complete nature of the Quranic guidance."
+    ]
+  },
+  "surah6": {
+    "SurahName": "Al-An'am",
+    "Translation": "The Cattle",
+    "ChapterNumber": 6,
+    "RevelationPlace": "Mecca",
+    "TotalVerses": 165,
+    "Description": "Surah Al-An'am addresses key theological, moral, and social issues, emphasizing the Oneness of Allah, the rejection of polytheism, and the importance of following divine revelation. It encourages reflection on the natural world and stresses the need for justice and moral conduct.",
+    "KeyThemes": {
+      "TawhidOnenessOfAllah": "Emphasizes the Oneness of Allah and His sovereignty over all creation, calling people to worship Allah alone and reject polytheism.",
+      "RejectionOfIdolatryAndPolytheism": "Rejects the practices of polytheism, particularly the attribution of divine powers to idols or other entities besides Allah.",
+      "ProphethoodAndRevelation": "Highlights the importance of the role of the prophets and their mission to deliver Allah's message, calling for acceptance of divine revelations.",
+      "AccountabilityAndTheDayOfJudgment": "Discusses the concept of accountability in the Hereafter, where everyone will be judged according to their deeds, and encourages belief in resurrection and the Day of Judgment.",
+      "SignsOfAllahInNature": "Points to the signs of Allah’s creation in the natural world as evidence of His existence, power, and authority, encouraging reflection to strengthen faith.",
+      "TheConceptOfHalalAndHaram": "Provides guidance on what is permissible (halal) and forbidden (haram) in food, particularly regarding meat and the lawfulness of certain animals.",
+      "TheConceptOfDivineWill": "Emphasizes Allah’s supreme will and the divine plan for everything that happens in the universe, encouraging submission and trust in His wisdom.",
+      "TheFateOfTheDisbelievers": "Recounts the fate of previous nations who rejected their prophets, warning those who deny the truth and urging them to embrace faith in Allah.",
+      "TheImportanceOfJustice": "Calls for fairness and justice in human dealings, encouraging Muslims to act justly and fulfill the rights of others."
+    },
+    "KeyVerses": {
+      "6:1": "All praise is due to Allah, who created the heavens and the earth and made the darkness and the light. Yet those who disbelieve equate others with their Lord.",
+      "6:36": "Only those who listen will respond. But as for the dead, Allah will raise them up; then to Him they will be returned.",
+      "6:141": "And He it is who produces gardens trellised and untrellised, and date palms, and crops of different shape and taste (its fruits and its seeds), and olives, and pomegranates, like and unlike.",
+      "6:151": "Say, 'Come, I will recite what your Lord has prohibited to you: that you associate nothing with Him, and to parents, good treatment, and do not kill your children for fear of poverty. We provide for you and for them.'"
+    },
+    "Significance": [
+      "Emphasis on Monotheism: Focuses on Tawhid and the rejection of polytheism, stressing the importance of worshiping Allah alone.",
+      "Reflection on Creation: Invites believers to reflect on the natural world as a means of strengthening faith and recognizing Allah’s power.",
+      "MoralAndEthicalGuidance: Offers significant moral lessons, including respect for human life, the importance of justice, and guidance on lawful and unlawful actions.",
+      "HistoricalLessons: Recounts the consequences faced by previous nations who denied their prophets, offering lessons for the current generation."
+    ]
+  },
+  "surah7": {
+    "SurahName": "Al-A'raf",
+    "Translation": "The Heights",
+    "ChapterNumber": 7,
+    "RevelationPlace": "Mecca",
+    "TotalVerses": 206,
+    "Description": "Surah Al-A'raf emphasizes the importance of belief in Allah, recounts the stories of past prophets, and stresses the consequences of disbelief. It introduces the concept of 'The Heights' as a place of balance, where people observe the fate of others. It offers moral lessons on humility, patience, and obedience to Allah.",
+    "KeyThemes": {
+      "BeliefInAllahAndHisSigns": "The Surah calls for the recognition of Allah’s signs in creation and the worship of Him alone, reflecting on the universe as evidence of His power and mercy.",
+      "TheStoryOfAdamAndIblis": "It recounts the story of Adam’s prostration, Iblis’s refusal due to arrogance, and the eternal enmity between humans and Satan.",
+      "Al-A'rafTheHeights": "Describes a group of people stationed on 'The Heights,' a place between Paradise and Hell, observing the fate of others, symbolizing hope, justice, and the balance of deeds.",
+      "HistoricalNarratives": "The Surah recounts the stories of several prophets, such as Noah, Hud, Salih, Shu'ayb, and Moses, emphasizing the consequences of rejecting divine guidance.",
+      "CallToTawhidMonotheism": "Stresses the oneness of Allah and the importance of worshipping Him alone, without associating partners.",
+      "WarningAgainstPolytheism": "Warns against following false deities and superstitions, urging reliance solely on Allah.",
+      "TheDayOfJudgment": "Describes the scenes of the Day of Judgment, where people’s deeds are weighed, leading them to either Paradise or Hell.",
+      "MoralLessons": "Highlights humility, gratitude, patience, and obedience to Allah's commands, encouraging believers to seek forgiveness and avoid arrogance.",
+      "LessonsFromProphetMosesAndPharaoh": "Details the confrontation between Moses and Pharaoh, focusing on the miracles given to Moses and the liberation of the Israelites."
+    },
+    "TheHeightsConcept": "The 'Heights' is a symbolic place where people with equal good and bad deeds are held, observing the fate of others until Allah decides their ultimate destiny. This concept underscores Allah’s meticulous justice.",
+    "Significance": [
+      "Reminds humanity of Allah’s guidance through history and the consequences of disbelief.",
+      "Invites reflection on the lessons of past nations and following the path of righteousness.",
+      "Focuses on Tawhid, morality, and the Hereafter, offering a foundation for spiritual growth and understanding Allah’s justice and mercy."
+    ]
+  },
+  "surah8": {
+    "SurahName": "Al-Anfal",
+    "Translation": "The Spoils of War",
+    "ChapterNumber": 8,
+    "RevelationPlace": "Medina",
+    "TotalVerses": 75,
+    "Description": "Surah Al-Anfal discusses the Battle of Badr, the distribution of spoils of war, unity among the believers, and the importance of relying on Allah for victory. It provides ethical guidelines for war and emphasizes mercy, forgiveness, and justice. The Surah teaches that ultimate success comes from faith and trust in Allah.",
+    "KeyThemes": {
+      "TheBattleOfBadr": "The Surah discusses the pivotal Battle of Badr, highlighting the divine help granted to the Muslims, despite being outnumbered.",
+      "TheDistributionOfSpoilsOfWar": "It outlines the rules for distributing war booty (anfal), emphasizing that it belongs to Allah and His Messenger, to be distributed justly.",
+      "UnityAndObedience": "Al-Anfal stresses the importance of unity among the Muslim community and obedience to Allah and His Messenger, especially during times of trial.",
+      "TheRoleOfDivineHelp": "Victory in battle is attributed to Allah’s help, emphasizing the need for reliance on His guidance.",
+      "TheTestOfFaith": "The Surah presents the battle as a test of faith, rewarding those who remained firm and punishing those who faltered.",
+      "TheImportanceOfStrategyAndPreparation": "Encourages preparation, strategy, and discipline, while also trusting in Allah for ultimate success.",
+      "MercyAndForgiveness": "Calls for mercy and forgiveness, especially towards prisoners of war, and emphasizes treating captives with dignity.",
+      "HypocrisyAndDisbelief": "Warns against hypocrisy and disbelief, contrasting the true believers with those who pretend to follow Islam.",
+      "ConsequencesForTheDisbelievers": "Describes the punishment awaiting those who reject Allah’s guidance and oppose Islam."
+    },
+    "KeyVerses": {
+      "Ayah8:1": "They ask you about the spoils of war. Say, 'The spoils of war are for Allah and the Messenger.'",
+      "Ayah8:17": "It is not you who killed them; it was Allah who killed them.",
+      "Ayah8:24": "O you who have believed, respond to Allah and to the Messenger when he calls you to that which gives you life.",
+      "Ayah8:60": "Prepare against them whatever you are able of power and of steeds of war to strike fear into the enemy of Allah and your enemy.",
+      "Ayah8:71": "If they intend to betray you—then they have already betrayed Allah, and He has given you power over them."
+    },
+    "Significance": [
+      "Victory comes through divine support, not merely human effort.",
+      "Ethical conduct in war, including fair distribution of spoils and proper treatment of prisoners, is emphasized.",
+      "Stresses the importance of unity, discipline, and ethical guidelines in times of conflict.",
+      "The Battle of Badr is a test of faith, showing that victory lies in sincere faith and reliance on Allah.",
+      "Highlights Allah’s divine justice and mercy, offering opportunities for repentance and forgiveness, even for initial enemies of Islam."
+    ],
+    "Conclusion": "Surah Al-Anfal provides essential lessons on faith, unity, ethical conduct, and reliance on Allah, especially in conflict. It stresses that true success comes from sincerity and divine support, not material strength, and encourages Muslims to remain prepared, strategic, and just."
+  }
+  
+  
+}
+

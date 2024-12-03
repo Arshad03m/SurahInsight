@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-color: #fff; */
+    background-color: #a9c9c2;
+    color: #244435;
+}
+.surah-list-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 180px;
+    width: 100%;
+    /* background-color: white; */
+    background-color: #a9c9c2;
+    z-index: 500;
+    
+    position: fixed;
+    top: 0;
+}
+
+.surah-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow-x: auto;
+    align-items: center;
+    height: 150px;
+    width: 98%;
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+    /* padding: 5px; */
+    margin: 4px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.surah-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 150px;
+    height: 60px;
+    margin: 4px;
+    /* background-color: #f4f4f4;  */
+    background-color: #d8e8e7; 
+    /* border: 1px solid #ddd; */
+    border-radius: 4px;
+    cursor: pointer;
+}
+.surah-item:hover{
+    background-color: #244435;
+    color: #d8e8e7;
+}
+.surah-item:active{
+    background-color: rgb(0, 72, 0);
+}
+
+
+
+
+
+.surah-list::-webkit-scrollbar {
+    display: none;  
+}
+
+h2{
+    text-align: center;
+}
+
+li{
+    line-height: 2rem;
+}
+
+.surah-content{
+    padding: 20px;
+    margin-top: 150px;
+}
+
+@media (min-width:850px) {
+    .surah-content-center{
+        display: flex;
+        justify-content: center;
+    }
+    .surah-content{
+        width: 50%;
+    }
+}
+
+/* 
+.surah-list {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: auto auto;
+    gap: 10px;      (Space between items)
+    overflow-x: auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 98%;
+    border-radius: 5px;
+}
+
+.surah-item {
+    width: 100px;
+    height: 50px;
+    background: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.surah-list::-webkit-scrollbar {
+    display: none;
+} 
+*/
